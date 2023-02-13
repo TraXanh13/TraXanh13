@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kyle or @TraXanh13
-- 👀 I’m interested in front end and game development
-- 🌱 I’m currently learning unity and react
+- 👀 I’m a student at Mount Royal University interested in Front end web development and game development
+- 🌱 I’m currently learning unity and python
 - 📫 It is best to reach me at kyleduong13@gmail.com
 
 <!---
